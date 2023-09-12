@@ -65,6 +65,7 @@ KeySystem.Text = "Enter the Key"
 KeySystem.TextColor3 = Color3.new(0, 0, 0)
 KeySystem.BackgroundTransparency = 0.5
 KeySystem.BackgroundColor3 = Color3.new(1, 1, 1)
+KeySystem.TextWrapped = true
 KeySystem.Parent = frame
 
 local SubmitButton = Instance.new("TextButton")
