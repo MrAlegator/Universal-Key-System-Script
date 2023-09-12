@@ -7,7 +7,7 @@ Universal key system is what will give you the opportunity to make money on plat
 
 This key system can also work for regular Roblox Studio, if you want to make for example: *Admin Ponel* with its own key, which will know only you
 
-An abbreviated reference for Exploit *loadstring:*
+An abbreviated reference for Exploit *loadstring* or *Roblox* *Studio:*
 https://pastebin.com/qkhH8SW9
 
 Script Overview: https://youtu.be/lBmIzRmd8zk?si=p6lTSFL3gHgc7vb6
